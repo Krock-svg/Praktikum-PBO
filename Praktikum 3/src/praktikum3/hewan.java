@@ -1,4 +1,4 @@
-package praktikumHewan;
+package praktikum3;
 
 class Hewan {
     // Atribut privat (Encapsulation)
