@@ -10,6 +10,9 @@ public class Main {
         Makanan roti = new Makanan("Roti 'O", 15000, LocalDate.of(2026, 05, 15));
         roti.toString();
 
+        roti.setHarga(8000);
+        roti.toString();
+
         PegawaiTetap pegawai = new PegawaiTetap("Suherman", 20, 30);
         pegawai.toString();
 
